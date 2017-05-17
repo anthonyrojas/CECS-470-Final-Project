@@ -1,0 +1,57 @@
+.class-inner{
+	width:100%;
+}
+
+.class-image {
+	max-width:50%;
+	margin-left:25%;
+	margin-right:25%;
+}
+#class-section .one-half1 h1{
+	text-align:center;
+}
+#class-section .one-half1 p{
+	text-align:center;
+	font-weight:bold;
+}
+#class-section .one-half1 a{
+	max-width:50%;
+	margin-left:25%;
+	margin-right:25%;
+	padding:2%;
+	background-color:#fff;
+	border-bottom:4px solid white;
+	color:#173e43;
+}
+#class-section .one-half1 a:hover{
+	border-bottom:4px solid  #6ed3cf;
+	color:#6ed3cf;
+}
+.one-half1{
+	width:40%;
+	float:left;
+	margin-left:6%; 
+	margin-top:2%;
+	margin-bottom:2%;
+	
+}
+#map {
+    height: 30%;
+    width: 100%;
+	margin-top:-15px;
+	padding-bottom:2%;
+}
+
+#contentHeader {
+    background-color: #6ed3cf;
+    text-align: center;
+}
+#contact-info{
+	margin-left:4%;
+	margin-top: 4%;
+	padding-bottom:4%;
+}
+#contact-info h2{
+	font-size:1.5em;
+	font-weight:bold;
+}

@@ -1,0 +1,26 @@
+#calendar-section{
+	width:80%;
+	margin-left:4%;
+	padding-top:4%;
+	padding-bottom:4%;
+}
+table {
+	width:100%;
+	border-collapse: collapse;
+    border: 1px solid #c0dfd9;
+}
+th{
+	font-size:1.5em;
+	background-color:#c0dfd9;
+	color:white;
+	padding:2%;
+	border: 1px solid #173e43;
+}
+td{
+	font-size:1em;
+	font-weight:bold;
+	border: 1px solid #173e43;
+	padding:2%;
+	text-align:center;	
+	background-color:#fff;
+}

@@ -1,0 +1,18 @@
+#signup{
+	text-align: center;
+}
+#signup h1{
+	text-align: center;
+}
+
+#signup table{
+	font-size: 1.2em;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#signup td{
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+}
