@@ -27,6 +27,5 @@ $(document).ready(function(){
             document.getElementById("phone").style.backgroundColor = "white";
         }
 
-
 	});
 })
